@@ -8,7 +8,7 @@ pages, use this script.
 
 A sample clippings file is added. Just run:
 
-    python clippings2markdown.py s    sampleClippings.txt
+    python clippings2markdown.py sampleClippings.txt
 
 Follow the commands and add your comments. It will generate an `Title-Author-comments.md`
 file with quotes and comments.
